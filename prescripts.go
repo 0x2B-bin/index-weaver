@@ -79,6 +79,7 @@ var postScripts = []string{
 	"Reflect on what you have done",
 	"Disobey your next prescript",
 	"Once this prescript is done, exchange this prescript with another Index member",
+	"This directive is absolute",
 }
 
 type Prescript struct {
