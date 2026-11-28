@@ -28,6 +28,7 @@ var singles = []string{
 
 var timeConditions = []string{
 	"At precisely 14:00",
+	"The next time the clock strikes 7:16",
 	"Tonight",
 	"This evening",
 	"During the next full moon",
@@ -77,6 +78,7 @@ var actions = []string {
 	"eat your vocal cords",
 	"drink three cups of water",
 	"spin a wheel and throw a cake at the person determined by the result",
+	"perform a dance that consists of no more than 8 rotations",
 }
 
 var conditions = []string {
