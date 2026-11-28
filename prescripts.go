@@ -19,6 +19,11 @@ var singles = []string{
 	"Do not utter a single word for five days",
 	"Stand on any three-way intersection at 3:38 tomorrow, look to the east, and wave seven time.",
 	fmt.Sprintf("Recite the first %d values of pie", rand.IntN( (30-20) + 20 )),
+	"Initiate a game of Never Have I Ever with the first five people you encounter. When one folds a finger, break it",
+	"With a sharpened blade, cry out like the scent of fallen leaves and the roar of a waterfall",
+	"Breath of the other side. Folded wound. Distant sound. Open gates",
+	"Cut off the right arm of every 25 year old living within a 5 mile vicinity approximate to your location by the end of the day",
+	"Behead seven dwellers of the Backstreets who resist when a blade touches their throat",
 }
 
 var timeConditions = []string{
@@ -31,6 +36,8 @@ var timeConditions = []string{
 	"As soon as the sun falls",
 	"The next time it rains",
 	"The next time it snows",
+	"When the world comes to the end",
+	"On the morning after receiving the Prescript",
 }
 
 var actions = []string {
@@ -39,7 +46,7 @@ var actions = []string {
 	"throw a baseball at someone's window",
 	"go purchase a new book",
 	"ask the next person you see for directions",
-	"eat a bowel of chicken",
+	"eat a bowl of chicken",
 	"stare at the eyes of the next person you see for 30 minutes",
 	"drink 1 gallon of milk",
 	"destroy life",
@@ -54,6 +61,22 @@ var actions = []string {
 	"sit down for 10 hours",
 	"walk backwards for the rest of the day",
 	"cheat death",
+	"cheat life",
+	"walk to the nearest city with one leg",
+	"cut off all your nails",
+	"pat the back of the first person you see",
+	"drink the life out of a painting",
+	"skin alive the 5th person you see on a Tuesday",
+	"drive into a lamppost",
+	"drive into a lamppost or something solid to draw attention and damage the car",
+	"kill 8 billion people immediately as soon as you can",
+	"walk out into the middle of an intersection at 5:47 pm",
+	"love the universe",
+	"take on a new name",
+	"Kill all the doors of the ceiling",
+	"eat your vocal cords",
+	"drink three cups of water",
+	"spin a wheel and throw a cake at the person determined by the result",
 }
 
 var conditions = []string {
@@ -68,7 +91,7 @@ var markers = []string{
 	"and then",
 	"afterwards",
 	"and once you do",
-	"wait 20 minutes then",
+	"wait 20 minutes and then",
 }
 
 var postScripts = []string{
